@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 In your browser, log into Coalition in order to establish an active session. Then paste the following url into your browser:
 
-https://www.mycoalition.org/external/api/admin/admit/api/v1/attr?system=true
+https://www.mycoalition.org/external/api/admin/admit/api/v1/attr?activity=false&secure=false
 
 This will return a complete JSON representation of the data dictionary. Save this response.
 
